@@ -4,7 +4,7 @@ html,body{
 header{
     width: 100%;
     height: 50px;
-    background: #1436F6;
+    background: #dc0000;
     line-height: 50px;
     position: fixed;
     top:0;
@@ -74,13 +74,13 @@ header span a:hover{
 .remen {
     width: 100%;
     overflow: hidden;
-    background: #f9f9f9;
+    /* background: #dc0000; */
 }
 
 .remen p {
     font-size: 20px;
     padding-left: 5%;
-    border-left: 3px solid #337eff;
+    border-left: 3px solid #dc0000;
     margin-top: 5%;
 }
 
@@ -158,7 +158,7 @@ section .remen ul li {
 .tuijian p {
     font-size: 20px;
     padding-left: 5%;
-    border-left: 3px solid #337eff;
+    border-left: 3px solid #dc0000;
     margin-top: 5%;
 }
 
@@ -265,7 +265,7 @@ section .remen ul li {
 }
 
 .lunbo .yh-lunbo .yh-lunbos.actives {
-    background: #337eff;
+    background: #dc0000;
 }
 
 .scorllnav {
@@ -280,7 +280,7 @@ section .remen ul li {
 }
 
 .scorllnav ul li.active {
-    background: #337eff;
+    background: #dc0000;
 
 }
 
@@ -291,7 +291,7 @@ section .remen ul li {
 .paihang p {
     font-size: 20px;
     padding-left: 5%;
-    border-left: 3px solid #337eff;
+    border-left: 3px solid #dc0000;
     margin-top: 5%;
 }
 
@@ -341,7 +341,7 @@ section .paihang li {
 .dingbu .top {
     width: 40px;
     height: 40px;
-    background: #337ab7;
+    background: #dc0000;
     line-height: 40px;
     text-align: center;
     font-size: 18px;
@@ -390,7 +390,7 @@ section .paihang li {
     display: block;
     width: 90px;
     height: 32px;
-    background: #0098f1;
+    background: #dc0000;
     float: right;
     border-radius: 5px;
     color: white;
@@ -424,7 +424,7 @@ section .paihang li {
 
 }
 .comments .com-right .name{
-    color: #275fbd ;
+    color: #dc0000 ;
     font-size: 16px;
 }
 .comments .com-right .time{
